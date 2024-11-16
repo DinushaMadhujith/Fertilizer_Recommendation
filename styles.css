@@ -1,0 +1,20 @@
+body {
+    background-color: #ADD8E6; /* Set page background color to yellow */
+}
+
+h1, h2, h3 {
+    color: darkgreen; /* Set the color of headings to dark green */
+    text-align: center; /* Center the headings */
+}
+
+.stMarkdown {
+    color: black; /* Set text color for paragraphs to black for better readability */
+    text-align: justify; /* Justify paragraph text */
+}
+
+img {
+    border: 2px solid darkgreen; /* Add a dark green border around images */
+    display: block; /* Ensures the image behaves like a block element */
+    margin-left: auto; /* Center the image */
+    margin-right: auto; /* Center the image */
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f4f4;  /* Light gray background */
+}
+
+h1 {
+    color: #2c3e50;  /* Dark blue for headings */
+}
+
+.subheader {
+    font-weight: bold;
+    color: #2980b9;  /* Blue for subheaders */
+}
+
+.stButton {
+    background-color: #27ae60;  /* Green for buttons */
+    color: white;
+}
+
+.stButton:hover {
+    background-color: #219150;  /* Darker green on hover */
+}
+
+.stSelectbox, .stNumberInput {
+    margin-bottom: 20px;  /* Space between inputs */
+}

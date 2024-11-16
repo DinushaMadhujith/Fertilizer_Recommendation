@@ -42,8 +42,7 @@ def load_css():
 
 # Encoding dictionaries
 soil_type_encoding = {"Sandy": 0, "Clay": 1, "Loam": 2, "Silty": 3}
-crop_type_encoding = {"Wheat": 0, "Rice": 1, "Maize": 2, "Soybean": 3}
-
+crop_type_encoding = {"Maize": 0, "Sugarcane": 1, "Cotton": 2, "Tobacco": 3, "Paddy": 4, "Barley": 5, "Wheat": 6, "Millets": 7, "Oil seeds": 8, "Pulses": 9, "Ground Nuts": 10}
 
 def show_prediction():
     load_css()  # Load CSS when showing prediction
